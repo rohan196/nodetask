@@ -1,0 +1,62 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+lib-cov/
+coverage/
+
+# Testing
+coverage/
+.nyc_output/
+jest/
+
+# Environment variables
+.env
+.env.test
+
+# MongoDB data
+dump/
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.bson
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Compiled files
+dist/
+build/
+
+# Uploads
+upload/
+
+# Postman files
+*.postman_collection.json
+
+# Miscellaneous
+*.sublime-workspace
+*.sublime-project
