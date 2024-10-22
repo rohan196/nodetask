@@ -6,12 +6,12 @@ This API allows uploading CSV or JSON data for stock information, storing it in 
 
 - [Project Setup](#project-setup)
 - [Environment Variables](#environment-variables)
-- [API Endpoints]
-  - [Highest Volume]
-  - [Average Close Price]
-  - [Average VWAP]
-- [Testing with Postman]
-- [Unit Tests]
+- API Endpoints
+  - Highest Volume
+  - Average Close Price
+  - Average VWAP
+- Testing with Postman
+- Unit Tests
   
 ## Project Setup
 
