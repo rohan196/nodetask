@@ -12,7 +12,6 @@ This API allows uploading CSV or JSON data for stock information, storing it in 
   - [Average VWAP]
 - [Testing with Postman]
 - [Unit Tests]
-- [Contributing]
   
 ## Project Setup
 
